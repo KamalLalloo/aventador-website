@@ -68,7 +68,7 @@ nav a {
 .hero {
     position: relative;
     height: 500px; /* Set the height according to your design preference */
-    background-image: url('images/lamborghini-hero.jpg');
+    background-image: url('Images/lamborghini-hero.jpg');
     background-size: cover;
     background-position: center;
 }
